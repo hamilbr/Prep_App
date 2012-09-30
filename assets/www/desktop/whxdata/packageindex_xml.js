@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"utf-8\"?><cki><ck fm=\"!\" to=\"all\"/><ck fm=\"allegation\" to=\"by\"/><ck fm=\"c\" to=\"disability\"/><ck fm=\"disabl\" to=\"for\"/><ck fm=\"form\" to=\"is\"/><ck fm=\"issu\" to=\"of\"/><ck fm=\"off\" to=\"reason\"/><ck fm=\"reasonab\" to=\"such\"/><ck fm=\"suchlik\" to=\"u\"/><ck fm=\"ultimate\" to=\"•\"/></cki>";

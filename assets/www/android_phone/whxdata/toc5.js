@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Sales Training\"><item name=\"Sales Staff Training\" url=\"Employee_Care/HR_Policies/Sales_Staff_Training.htm\" /></data>";
